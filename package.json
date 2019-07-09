@@ -1,5 +1,5 @@
 {
-	"name": "ink-confirm-input-v2",
+	"name": "@pheonixcoder/ink-confirm-input",
 	"version": "1.0.3",
 	"description": "Confirmation input component for Ink",
 	"license": "MIT",
