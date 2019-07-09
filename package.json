@@ -1,13 +1,13 @@
 {
-	"name": "ink-confirm-input",
+	"name": "ink-confirm-input-v2",
 	"version": "1.0.3",
 	"description": "Confirmation input component for Ink",
 	"license": "MIT",
-	"repository": "kevva/ink-confirm-input",
+	"repository": "pheonixcoder/ink-confirm-input",
 	"author": {
-		"name": "Kevin Mårtensson",
-		"email": "kevinmartensson@gmail.com",
-		"url": "https://github.com/kevva"
+		"name": "Balwant Singh",
+		"email": "balwant.matharu@gmail.com",
+		"url": "https://github.com/pheonixcoder"
 	},
 	"engines": {
 		"node": ">=6"
